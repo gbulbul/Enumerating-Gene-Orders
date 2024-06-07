@@ -1,0 +1,1 @@
+When a positive integer n≤7 is given, this program produces the total number of permutations of length n by being followed by a list of all such permutations (in any order). This arithmetical task is used as an analog of gene arrangements which make up a large scale of mutations.
